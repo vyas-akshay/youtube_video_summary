@@ -10,7 +10,10 @@ YouTube Link Input: Users can input the link to any YouTube video they want to s
 
 How to Use:
 
-1)Clone or download this repository to your local machine. 2) Ensure you have Python installed. You can download it from python.org. 3) Install the required dependencies using pip: pip install -r requirements.txt 4) Run the Streamlit app: streamlit run app.py
+1)Clone or download this repository to your local machine. 
+2) Ensure you have Python installed. You can download it from python.org. 
+3) Install the required dependencies using pip: pip install -r requirements.txt 
+4) Run the Streamlit app: streamlit run app.py
 
 Access the app through your browser by navigating to the URL provided by Streamlit (typically http://localhost:8501).
 
